@@ -7,6 +7,7 @@
 #include<Windows.h>
 
 //function definition 
+//void commitCheckFunction();
 void AdminMenu(int t);
 void UserMenu(int t);
 void AdminPassword(int t);
