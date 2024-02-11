@@ -9,6 +9,8 @@ This project aims to create a comprehensive hospital management and telemedicine
     <img src="https://github.com/OshadiPalliyaguruge/OOP_MiniProject/blob/master/Images/login%20screen.jpg" width="500" align="center">
 </div>
 
+##### Operation Modes
+
 There are two operation modes. You can choose the operation mode as education mode or regular mode.
 <div align='center'>
     <img src="https://github.com/OshadiPalliyaguruge/OOP_MiniProject/blob/master/Images/operation%20mode.jpg" width="500" align="center">
@@ -41,7 +43,7 @@ There are two operation modes. You can choose the operation mode as education mo
     <img src="https://github.com/OshadiPalliyaguruge/OOP_MiniProject/blob/master/Images/admin%20menu1.jpg" width="500" align="center">
 </div>
 
-
+##### Admin menu
 <div align='center'>
     <img src="https://github.com/OshadiPalliyaguruge/OOP_MiniProject/blob/master/Images/admin%20menu2.jpg" width="500" align="center">
 </div>
